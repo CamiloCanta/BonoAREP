@@ -37,9 +37,3 @@ build/
 ### Mac OS ###
 .DS_Store
 
-img.png
-img_1.png
-
-pom.xml
-docker-compose.yml
-Dockerfile
